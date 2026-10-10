@@ -1,0 +1,4 @@
+nome = input("Seu nome: ")
+ano_nascimento = int(input("Ano de nascimento: "))
+idade = 2026 - ano_nascimento
+print(f"Olá, {nome}! Você tem cerca de {idade} anos.")

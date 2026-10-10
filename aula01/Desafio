@@ -1,0 +1,11 @@
+nome = (input ("digite seu nome: " ))
+
+idade = int (input("Qual sua idade: "))
+
+profissao = (input("qual sua profissão: "))
+
+ano_atual = int (input ("Digite o ano atual: "))
+
+print (f'Olá {nome} você possui {idade} anos em {ano_atual}, no próximo ano você terá {idade+1} anos')
+
+
